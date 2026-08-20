@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F71527&width=435&lines=Hi%2C+I'm+Freddy.+Welcome+to+my+profile.)](https://git.io/typing-svg)
+# Hola, soy Freddy Valenzuela 👋
 
 **Estudiante de Ciencias de la Computacion | Universidad Yachay Tech**
 
