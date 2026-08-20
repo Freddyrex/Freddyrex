@@ -1,4 +1,4 @@
-# Hola, soy Freddy Valenzuela 👋
+![Banner](assets/github-header-banner.png)
 
 **Estudiante de Ciencias de la Computacion | Universidad Yachay Tech**
 
