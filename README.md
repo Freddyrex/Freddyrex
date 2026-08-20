@@ -69,14 +69,15 @@ Apasionado por la Inteligencia Artificial, los Sistemas Distribuidos y la Electr
 
 ## Tecnologias
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,kotlin,docker,tensorflow,linux,html,css,github,vscode&perline=9" />
+  </a>
+</p>
+
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat&logo=gnu&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-2B2D42?style=flat&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
