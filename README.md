@@ -1,4 +1,4 @@
-# Hola, soy Freddy Valenzuela 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71527&width=435&lines=Hi%2C+I'm+Freddy.+Welcome+to+my+profile.)](https://git.io/typing-svg)
 
 **Estudiante de Ciencias de la Computacion | Universidad Yachay Tech**
 
